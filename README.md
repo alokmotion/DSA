@@ -19,6 +19,8 @@
 
 ![image](https://user-images.githubusercontent.com/95286756/212731151-cd18a90b-bb27-48a9-84d8-d961e8465ecb.png)
 
-<h2> 5.Primitive Data Structures </h2>
+<h2> 5.Primitive Data Structures? </h2>
+<p> Primitive data structures allow storing only one value at a particular location. Primitive data structures of any programming language are the data types that are predefined in that programming language.
+</p>
 
 
