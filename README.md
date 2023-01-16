@@ -1,5 +1,11 @@
 # DSA
 90 Day Challenge
 
-<h2> What is Data Structure ? </h2>
+<h2> 1. What is Data Structure ? </h2>
   <p> A data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently. </p>
+
+
+<h2> 2. What is an algorithm? </h2>
+<p> An algorithm is a step by step method of solving a problem or manipulating data. It defines a set of rules for a computer program to accomplisha task. </p>
+
+                Example:     Input --->   calculation -----> Stop When answer fond.
