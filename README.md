@@ -9,3 +9,5 @@
 <p> An algorithm is a step by step method of solving a problem or manipulating data. It defines a set of rules for a computer program to accomplisha task. </p>
 
                 Example:     Input --->   calculation -----> Stop When answer fond.
+
+<h2> 3. Why are DSA inportant ? </h2>
