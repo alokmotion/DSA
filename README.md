@@ -11,3 +11,8 @@
                 Example:     Input --->   calculation -----> Stop When answer fond.
 
 <h2> 3. Why are DSA inportant ? </h2>
+
+<p> Repeat Defination q1 and q2 </p>
+
+
+<h2> 4.Type of Data Structures </h2>
