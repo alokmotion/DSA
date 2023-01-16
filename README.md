@@ -26,11 +26,11 @@
 
 <h2> 5. Types of Algorithms </h2>
 <p> 
-1. Brute Force Algorithm
-2. Recursive Algorithm
-3. Randomized Algorithm
-4. Sorting Algorithm:
-5. Searching Algorithm:
-6. Hashing Algorithm:
+1. Brute Force Algorithm <br>
+2. Recursive Algorithm  <br>
+3. Randomized Algorithm  <br>
+4. Sorting Algorithm  <br>
+5. Searching Algorithm <br>
+6. Hashing Algorithm <br>
 
 </p>
