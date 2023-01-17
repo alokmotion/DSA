@@ -54,6 +54,6 @@
 > Define the type of elements that it will store <br>
 > Define the size (the max number of elements) </br>
 from array import*
-arrayName = array ([typecode](https://user-images.githubusercontent.com/95286756/212964876-69615497-875a-4a24-9c1d-94631f559534.png),[Initializers])
+arrayName = array ([typecode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.askpython.com%2Fpython%2Farray%2Fpython-array-examples&psig=AOvVaw1OEXTlxWqtGMcY3uRWNKxg&ust=1674061867294000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiqg8uMz_wCFQAAAAAdAAAAABAE)), [Initializers])
 
 </p>
