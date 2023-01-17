@@ -34,3 +34,7 @@
 6. Hashing Algorithm <br>
 
 </p>
+
+
+<h2> Arrays </h>
+
