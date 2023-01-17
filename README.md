@@ -47,3 +47,13 @@
   1. One-Dimensional Arrays:  A One-Dimensional Array is the simplest form of an Array in which the elements are stored linearly and can be accessed individually by specifying the index value of each element stored in the array.<br>
   2. Multi-Dimensional Arrays: A multi-dimensional array can be termed as an array of arrays that stores homogeneous data in tabular form. Data in multidimensional arrays are stored in row-major order. 
   <p>
+
+<h2>  Create an Arrays ? </h2>
+<p> When we create an array , we <br>
+> Assign it to a variable  <br>
+> Define the type of elements that it will store <br>
+> Define the size (the max number of elements) </br>
+from array import*
+arrayName = array ([typecode](https://user-images.githubusercontent.com/95286756/212964876-69615497-875a-4a24-9c1d-94631f559534.png),[Initializers])
+
+</p>
