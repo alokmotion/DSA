@@ -35,9 +35,8 @@
 
 </p>
 
-
+<h1> Day 2 </h1>
 <h2> 6. Arrays </h>
 <p> Arrays are defined as the collection of similar type of data items stored at contiguous memory location. 
-  Array is the simplest data structure where each data element can be accessed by using its index number. 
-</p>
+  Array is the simplest data structure where each data element can be accessed by using its index number. </p>
 
