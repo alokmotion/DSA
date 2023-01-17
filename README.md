@@ -39,6 +39,5 @@
 <h2> 6. Arrays </h2>
 <p> Arrays are defined as the collection of similar type of data items stored at contiguous memory location. 
   Array is the simplest data structure where each data element can be accessed by using its index number. </p>
+  
   ![image](https://user-images.githubusercontent.com/95286756/212951019-92f0d688-c952-43e7-9c87-5f87ed98414e.png)
-
-
