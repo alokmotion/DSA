@@ -24,7 +24,7 @@
 
 ![Screenshot 2023-01-16 225850](https://user-images.githubusercontent.com/95286756/212737110-c4967809-821c-4e0f-b8be-4891548eda52.jpg)
 
-<h2> 5. Types of Algorithms </h2>
+<h2> 6. Types of Algorithms </h2>
 <p> 
 1. Brute Force Algorithm <br>
 2. Recursive Algorithm  <br>
@@ -36,8 +36,14 @@
 </p>
 
 <h1> Day 2 </h1>
-<h2> 6. Arrays </h2>
+<h2> 7. Arrays </h2>
 <p> Arrays are defined as the collection of similar type of data items stored at contiguous memory location. 
   Array is the simplest data structure where each data element can be accessed by using its index number. </p>
   
   ![image](https://user-images.githubusercontent.com/95286756/212951019-92f0d688-c952-43e7-9c87-5f87ed98414e.png)
+  
+  <h2> 8. Types of Arrays ? </h2>
+  <p>  There are majorly two types of arrays  <br>
+  1. One-Dimensional Arrays:  A One-Dimensional Array is the simplest form of an Array in which the elements are stored linearly and can be accessed individually by specifying the index value of each element stored in the array.<br>
+  2. Multi-Dimensional Arrays: A multi-dimensional array can be termed as an array of arrays that stores homogeneous data in tabular form. Data in multidimensional arrays are stored in row-major order. 
+  <p>
