@@ -49,11 +49,14 @@
   <p>
 
 <h2>  Create an Arrays ? </h2>
-<p> When we create an array , we <br>
+<p> 
+  When we create an array , we <br>
 > Assign it to a variable  <br>
 > Define the type of elements that it will store <br>
-> Define the size (the max number of elements) </br>
+> Define the size (the max number of elements)
 </p>
 
-from array import*
+from array import* <br>
 arrayName = array (typecode, [Initializers])
+
+
