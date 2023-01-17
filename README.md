@@ -53,7 +53,7 @@
 > Assign it to a variable  <br>
 > Define the type of elements that it will store <br>
 > Define the size (the max number of elements) </br>
-from array import*
-arrayName = array ([typecode](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.askpython.com%2Fpython%2Farray%2Fpython-array-examples&psig=AOvVaw1OEXTlxWqtGMcY3uRWNKxg&ust=1674061867294000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIiqg8uMz_wCFQAAAAAdAAAAABAE)), [Initializers])
-
 </p>
+
+from array import*
+arrayName = array (typecode, [Initializers])
