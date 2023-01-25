@@ -68,3 +68,15 @@ print(type(myArray))
 print(myArray)
 
 </code>
+
+
+<h1> Day 3 </h1>
+
+<h3> Recipe for Problem Solving </h3>
+<p> UNDERSTAND THE PROBLEM <BR>
+EXPLORE EXAMPLE <BR>
+BREAK IT DOWN <BR>
+SOLVE / SIMPLIFY <BR>
+LOOK BACK REFACTOR <BR>
+</P>
+
